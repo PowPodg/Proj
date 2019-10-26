@@ -1,2 +1,2 @@
 # Proj
-Reg Data
+Project for reg. data
