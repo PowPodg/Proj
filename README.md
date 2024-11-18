@@ -1,2 +1,2 @@
 # Proj for RAD STUDIO C++
-Project for reg. data - created in RAD STUDIO
+Example of the program on Rad Studio on C++ 
